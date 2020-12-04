@@ -6,9 +6,10 @@
 }
 .container
 {
-    width:1200px;
+    width:97%;
+    margin: 20px;
   
-    margin: 20px 0px 0px 30px;
+    
     font-family: Arial, Helvetica, sans-serif;
     padding: 3px;
 
